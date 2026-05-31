@@ -1,0 +1,6 @@
+# Environment / secrets — never commit .env files
+.env
+**/.env
+
+# OS
+.DS_Store

@@ -1,0 +1,18 @@
+# Secrets (Leonardo SSH password — keep local only)
+backend/.env
+ai-gateway/.env
+
+# Python
+backend/__pycache__/
+backend/.venv/
+backend/jobs.json
+*.pyc
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+ai-gateway/node_modules/
+
+# OS
+.DS_Store

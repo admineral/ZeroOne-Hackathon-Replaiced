@@ -1,0 +1,6 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Locally regenerated variant dumps can exceed GitHub's 100MB limit.
+# Use the committed *_variants.csv from the repo, or store large outputs elsewhere.

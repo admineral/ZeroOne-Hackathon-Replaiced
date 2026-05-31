@@ -1,0 +1,28 @@
+{
+  "generated_at": 1780110004.7962408,
+  "generated_at_iso": "2026-05-30T05:00:04",
+  "count_param": 100000,
+  "seed": 42,
+  "total_sequences": 300000,
+  "total_step_rows": 38843616,
+  "families": {
+    "mosfet": {
+      "file": "MOSFET_variants.csv",
+      "sequences": 100000,
+      "step_rows": 12525095,
+      "bytes": 370734160
+    },
+    "igbt": {
+      "file": "IGBT_variants.csv",
+      "sequences": 100000,
+      "step_rows": 14804325,
+      "bytes": 447413295
+    },
+    "ic": {
+      "file": "IC_variants.csv",
+      "sequences": 100000,
+      "step_rows": 11514196,
+      "bytes": 342166929
+    }
+  }
+}
