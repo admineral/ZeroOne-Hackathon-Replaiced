@@ -95,7 +95,7 @@ deterministic local fallback so the UI card can still be tested.
 ## Official participant submission
 
 The dashboard also exposes the organizer files under
-`/Users/eliaszobler/zero1hack/participant_files`:
+`/Users/zero1hack/participant_files`:
 
 - `GET /api/submission` reports official input rows, generated prediction CSVs,
   and anomaly invalid count.
