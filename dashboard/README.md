@@ -1,7 +1,6 @@
 #Start all 3 at once
 
 
-cd /Users/eliaszobler/zero1hack/dashboard
 ./dev.sh
 
 
